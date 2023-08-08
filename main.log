@@ -1,0 +1,10 @@
+2023-08-08 14:50:45.144810 | hello_world | () - {} | Hello World
+2023-08-08 14:50:45.145809 | summator | (2, 2) - {} | 4
+2023-08-08 14:50:45.145809 | div | (6, 2) - {} | 3.0
+2023-08-08 14:50:45.145809 | summator | (4.3,) - {'b': 2.2} | 6.5
+2023-08-08 14:50:45.146809 | summator | () - {'a': 0, 'b': 0} | 0
+2023-08-08 14:51:24.611729 | test_2 | () - {} | None
+2023-08-08 14:51:49.467259 | flat_generator | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) - {} | <generator object flat_generator at 0x000001E694C11120>
+2023-08-08 14:51:49.468258 | flat_generator | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) - {} | <generator object flat_generator at 0x000001E694C11120>
+2023-08-08 14:51:49.468258 | flat_generator | ([['a', 'b', 'c'], ['d', 'e', 'f', 'h', False], [1, 2, None]],) - {} | <generator object flat_generator at 0x000001E694C11120>
+2023-08-08 14:51:49.469258 | test_2 | () - {} | None
